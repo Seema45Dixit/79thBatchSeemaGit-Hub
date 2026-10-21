@@ -1,0 +1,4 @@
+Application opened
+Login successful
+Login Completed
+Logout completed
